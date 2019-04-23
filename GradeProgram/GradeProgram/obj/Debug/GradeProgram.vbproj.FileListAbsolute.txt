@@ -1,0 +1,24 @@
+C:\Users\Garry Zhuang\AppData\Local\Temporary Projects\GradeProgram\bin\Debug\GradeProgram.exe.config
+C:\Users\Garry Zhuang\AppData\Local\Temporary Projects\GradeProgram\bin\Debug\GradeProgram.exe
+C:\Users\Garry Zhuang\AppData\Local\Temporary Projects\GradeProgram\bin\Debug\GradeProgram.pdb
+C:\Users\Garry Zhuang\AppData\Local\Temporary Projects\GradeProgram\bin\Debug\GradeProgram.xml
+C:\Users\Garry Zhuang\AppData\Local\Temporary Projects\GradeProgram\obj\Debug\GradeProgram.vbprojResolveAssemblyReference.cache
+C:\Users\Garry Zhuang\AppData\Local\Temporary Projects\GradeProgram\obj\Debug\GradeProgram.Resources.resources
+C:\Users\Garry Zhuang\AppData\Local\Temporary Projects\GradeProgram\obj\Debug\GradeProgram.vbproj.GenerateResource.cache
+C:\Users\Garry Zhuang\AppData\Local\Temporary Projects\GradeProgram\obj\Debug\GradeProgram.vbproj.CoreCompileInputs.cache
+C:\Users\Garry Zhuang\AppData\Local\Temporary Projects\GradeProgram\obj\Debug\GradeProgram.exe
+C:\Users\Garry Zhuang\AppData\Local\Temporary Projects\GradeProgram\obj\Debug\GradeProgram.xml
+C:\Users\Garry Zhuang\AppData\Local\Temporary Projects\GradeProgram\obj\Debug\GradeProgram.pdb
+C:\Users\Garry Zhuang\AppData\Local\Temporary Projects\GradeProgram\obj\Debug\GradeProgram.frmMain.resources
+C:\Users\Garry Zhuang\Desktop\GarrysDashboard\GradeProgram\GradeProgram\bin\Debug\GradeProgram.exe.config
+C:\Users\Garry Zhuang\Desktop\GarrysDashboard\GradeProgram\GradeProgram\bin\Debug\GradeProgram.exe
+C:\Users\Garry Zhuang\Desktop\GarrysDashboard\GradeProgram\GradeProgram\bin\Debug\GradeProgram.pdb
+C:\Users\Garry Zhuang\Desktop\GarrysDashboard\GradeProgram\GradeProgram\bin\Debug\GradeProgram.xml
+C:\Users\Garry Zhuang\Desktop\GarrysDashboard\GradeProgram\GradeProgram\obj\Debug\GradeProgram.vbprojResolveAssemblyReference.cache
+C:\Users\Garry Zhuang\Desktop\GarrysDashboard\GradeProgram\GradeProgram\obj\Debug\GradeProgram.frmMain.resources
+C:\Users\Garry Zhuang\Desktop\GarrysDashboard\GradeProgram\GradeProgram\obj\Debug\GradeProgram.Resources.resources
+C:\Users\Garry Zhuang\Desktop\GarrysDashboard\GradeProgram\GradeProgram\obj\Debug\GradeProgram.vbproj.GenerateResource.cache
+C:\Users\Garry Zhuang\Desktop\GarrysDashboard\GradeProgram\GradeProgram\obj\Debug\GradeProgram.vbproj.CoreCompileInputs.cache
+C:\Users\Garry Zhuang\Desktop\GarrysDashboard\GradeProgram\GradeProgram\obj\Debug\GradeProgram.exe
+C:\Users\Garry Zhuang\Desktop\GarrysDashboard\GradeProgram\GradeProgram\obj\Debug\GradeProgram.xml
+C:\Users\Garry Zhuang\Desktop\GarrysDashboard\GradeProgram\GradeProgram\obj\Debug\GradeProgram.pdb
